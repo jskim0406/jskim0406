@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My CV is here[https://github.com/jskim0406/Study/blob/master/3.Portfolio/2.CV_김정섭.pdf]
+
 <!--
 **jskim0406/jskim0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
